@@ -1,0 +1,18 @@
+﻿  ConsoleApplication10.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(72,7): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(24): message : see declaration of 'std'
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(72,15): error C2143: syntax error: missing ';' before '<'
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(72,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(73,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(122,14): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(24): message : see declaration of 'std'
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(122,22): error C2143: syntax error: missing ';' before '<'
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(122,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(123,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(150,34): error C2039: 'is_base_idx': is not a member of 'SimplexSolver'
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(30): message : see declaration of 'SimplexSolver'
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(150,1): error C3861: 'is_base_idx': identifier not found
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(230,21): error C3861: 'find_pivot': identifier not found
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(233,10): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+C:\Users\kusan\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(263,17): error C3861: 'find_pivot': identifier not found

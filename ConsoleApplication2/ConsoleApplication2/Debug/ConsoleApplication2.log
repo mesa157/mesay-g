@@ -1,0 +1,9 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\kusan\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(167,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kusan\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(170,21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\kusan\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(173,21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\kusan\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(182,21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\kusan\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(190,21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\kusan\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(200,21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\kusan\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(202,21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\kusan\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(162): fatal error C1075: '{': no matching token found

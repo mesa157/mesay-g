@@ -1,0 +1,16 @@
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\ACMEE.COMTests.dll
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\ACMEE.COMTests.pdb
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\ACMEE.COM.dll
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\ACMEE.COM.pdb
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kusan\source\repos\ACMEE.COMTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kusan\source\repos\ACMEE.COMTests\obj\Debug\ACMEE.COMTests.csproj.AssemblyReference.cache
+C:\Users\kusan\source\repos\ACMEE.COMTests\obj\Debug\ACMEE.COMTests.csproj.CoreCompileInputs.cache
+C:\Users\kusan\source\repos\ACMEE.COMTests\obj\Debug\ACMEE.COMTests.csproj.CopyComplete
+C:\Users\kusan\source\repos\ACMEE.COMTests\obj\Debug\ACMEE.COMTests.dll
+C:\Users\kusan\source\repos\ACMEE.COMTests\obj\Debug\ACMEE.COMTests.pdb

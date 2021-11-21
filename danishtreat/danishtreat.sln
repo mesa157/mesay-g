@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "danishtreat", "danishtreat.csproj", "{62EE4162-FA62-4666-B4BC-A4096E322965}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD08A680-FF49-4A49-84E5-01962D54A058}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62EE4162-FA62-4666-B4BC-A4096E322965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EE4162-FA62-4666-B4BC-A4096E322965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EE4162-FA62-4666-B4BC-A4096E322965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EE4162-FA62-4666-B4BC-A4096E322965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B50F8353-3281-48A8-A6BE-BB875C12465B}
+	EndGlobalSection
+EndGlobal

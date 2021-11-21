@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verilog Project1", "Verilog Project1\Verilog Project1.csproj", "{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iCEBreaker = Debug|iCEBreaker
+		Debug|Orange Crab = Debug|Orange Crab
+		Debug|tinyFPGA BX = Debug|tinyFPGA BX
+		Debug|ULX3S ECP5-12K = Debug|ULX3S ECP5-12K
+		Debug|ULX3S ECP5-45K = Debug|ULX3S ECP5-45K
+		Debug|ULX3S ECP5-85K = Debug|ULX3S ECP5-85K
+		Release|iCEBreaker = Release|iCEBreaker
+		Release|Orange Crab = Release|Orange Crab
+		Release|tinyFPGA BX = Release|tinyFPGA BX
+		Release|ULX3S ECP5-12K = Release|ULX3S ECP5-12K
+		Release|ULX3S ECP5-45K = Release|ULX3S ECP5-45K
+		Release|ULX3S ECP5-85K = Release|ULX3S ECP5-85K
+		Upload|iCEBreaker = Upload|iCEBreaker
+		Upload|Orange Crab = Upload|Orange Crab
+		Upload|tinyFPGA BX = Upload|tinyFPGA BX
+		Upload|ULX3S ECP5-12K = Upload|ULX3S ECP5-12K
+		Upload|ULX3S ECP5-45K = Upload|ULX3S ECP5-45K
+		Upload|ULX3S ECP5-85K = Upload|ULX3S ECP5-85K
+		Verify|iCEBreaker = Verify|iCEBreaker
+		Verify|Orange Crab = Verify|Orange Crab
+		Verify|tinyFPGA BX = Verify|tinyFPGA BX
+		Verify|ULX3S ECP5-12K = Verify|ULX3S ECP5-12K
+		Verify|ULX3S ECP5-45K = Verify|ULX3S ECP5-45K
+		Verify|ULX3S ECP5-85K = Verify|ULX3S ECP5-85K
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|iCEBreaker.ActiveCfg = Debug|iCEBreaker
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|iCEBreaker.Build.0 = Debug|iCEBreaker
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|Orange Crab.ActiveCfg = Debug|Orange Crab
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|Orange Crab.Build.0 = Debug|Orange Crab
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|tinyFPGA BX.ActiveCfg = Debug|tinyFPGA BX
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|tinyFPGA BX.Build.0 = Debug|tinyFPGA BX
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|ULX3S ECP5-12K.ActiveCfg = Debug|ULX3S ECP5-12K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|ULX3S ECP5-12K.Build.0 = Debug|ULX3S ECP5-12K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|ULX3S ECP5-45K.ActiveCfg = Debug|ULX3S ECP5-45K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|ULX3S ECP5-45K.Build.0 = Debug|ULX3S ECP5-45K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|ULX3S ECP5-85K.ActiveCfg = Debug|ULX3S ECP5-85K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Debug|ULX3S ECP5-85K.Build.0 = Debug|ULX3S ECP5-85K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|iCEBreaker.ActiveCfg = Release|iCEBreaker
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|iCEBreaker.Build.0 = Release|iCEBreaker
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|Orange Crab.ActiveCfg = Release|Orange Crab
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|Orange Crab.Build.0 = Release|Orange Crab
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|tinyFPGA BX.ActiveCfg = Release|tinyFPGA BX
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|tinyFPGA BX.Build.0 = Release|tinyFPGA BX
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|ULX3S ECP5-12K.ActiveCfg = Release|ULX3S ECP5-12K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|ULX3S ECP5-12K.Build.0 = Release|ULX3S ECP5-12K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|ULX3S ECP5-45K.ActiveCfg = Release|ULX3S ECP5-45K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|ULX3S ECP5-45K.Build.0 = Release|ULX3S ECP5-45K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|ULX3S ECP5-85K.ActiveCfg = Release|ULX3S ECP5-85K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Release|ULX3S ECP5-85K.Build.0 = Release|ULX3S ECP5-85K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|iCEBreaker.ActiveCfg = Upload|iCEBreaker
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|iCEBreaker.Build.0 = Upload|iCEBreaker
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|Orange Crab.ActiveCfg = Upload|Orange Crab
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|Orange Crab.Build.0 = Upload|Orange Crab
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|tinyFPGA BX.ActiveCfg = Upload|tinyFPGA BX
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|tinyFPGA BX.Build.0 = Upload|tinyFPGA BX
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|ULX3S ECP5-12K.ActiveCfg = Upload|ULX3S ECP5-12K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|ULX3S ECP5-12K.Build.0 = Upload|ULX3S ECP5-12K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|ULX3S ECP5-45K.ActiveCfg = Upload|ULX3S ECP5-45K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|ULX3S ECP5-45K.Build.0 = Upload|ULX3S ECP5-45K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|ULX3S ECP5-85K.ActiveCfg = Upload|ULX3S ECP5-85K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Upload|ULX3S ECP5-85K.Build.0 = Upload|ULX3S ECP5-85K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|iCEBreaker.ActiveCfg = Verify|iCEBreaker
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|iCEBreaker.Build.0 = Verify|iCEBreaker
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|Orange Crab.ActiveCfg = Verify|Orange Crab
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|Orange Crab.Build.0 = Verify|Orange Crab
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|tinyFPGA BX.ActiveCfg = Verify|tinyFPGA BX
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|tinyFPGA BX.Build.0 = Verify|tinyFPGA BX
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|ULX3S ECP5-12K.ActiveCfg = Verify|ULX3S ECP5-12K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|ULX3S ECP5-12K.Build.0 = Verify|ULX3S ECP5-12K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|ULX3S ECP5-45K.ActiveCfg = Verify|ULX3S ECP5-45K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|ULX3S ECP5-45K.Build.0 = Verify|ULX3S ECP5-45K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|ULX3S ECP5-85K.ActiveCfg = Verify|ULX3S ECP5-85K
+		{6DD8D886-0D37-4346-9699-3FAEF22F5C6B}.Verify|ULX3S ECP5-85K.Build.0 = Verify|ULX3S ECP5-85K
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4E2EA9F-3DB2-4AB2-8C74-37695643B119}
+	EndGlobalSection
+EndGlobal

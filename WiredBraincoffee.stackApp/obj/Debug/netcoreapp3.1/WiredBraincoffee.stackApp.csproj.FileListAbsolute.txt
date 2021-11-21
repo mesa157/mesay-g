@@ -1,0 +1,14 @@
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\bin\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.exe
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\bin\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.deps.json
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\bin\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.runtimeconfig.json
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\bin\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.runtimeconfig.dev.json
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\bin\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.dll
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\bin\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.pdb
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\obj\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.csproj.AssemblyReference.cache
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\obj\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\obj\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.AssemblyInfoInputs.cache
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\obj\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.AssemblyInfo.cs
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\obj\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.csproj.CoreCompileInputs.cache
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\obj\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.dll
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\obj\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.pdb
+C:\Users\kusan\source\repos\WiredBraincoffee.stackApp\obj\Debug\netcoreapp3.1\WiredBraincoffee.stackApp.genruntimeconfig.cache

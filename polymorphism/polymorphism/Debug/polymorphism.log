@@ -1,0 +1,24 @@
+﻿  polymorphism.cpp
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(12,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(15,2): warning C4183: 'shape': missing return type; assumed to be a member function returning 'int'
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(22,11): error C2061: syntax error: identifier 'w'
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(25,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(27,2): warning C4183: 'doubleArea': missing return type; assumed to be a member function returning 'int'
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(23,12): error C2065: 'w': undeclared identifier
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(23,3): error C2614: 'Rectangle': illegal member initialization: 'shape' is not a base or member
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(26,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(29,31): error C2504: 'shape': base class undefined
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(31,10): error C2061: syntax error: identifier 'w'
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(32,12): error C2065: 'w': undeclared identifier
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(32,3): error C2614: 'Triangle': illegal member initialization: 'shape' is not a base or member
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(33,10): error C2065: 'height': undeclared identifier
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(33,19): error C2065: 'width': undeclared identifier
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(36,15): error C2065: 'shape': undeclared identifier
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(36,22): error C2065: 'shape': undeclared identifier
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(36,27): error C2182: 'ShowArea': illegal use of type 'void'
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(36,29): error C2448: 'ShowArea': function-style initializer appears to be a function definition
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(40,25): error C2661: 'Shape::Shape': no overloaded function takes 2 arguments
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(41,25): error C2661: 'Triangle::Triangle': no overloaded function takes 2 arguments
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(42,2): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(43,11): error C2275: 'Triangle': illegal use of this type as an expression
+C:\Users\kusan\source\repos\polymorphism\polymorphism\polymorphism.cpp(29): message : see declaration of 'Triangle'

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wierdBraincoffee", "wierdBraincoffee.csproj", "{89B42E68-9B01-44B3-993C-C9FFFA987A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B42E68-9B01-44B3-993C-C9FFFA987A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B42E68-9B01-44B3-993C-C9FFFA987A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B42E68-9B01-44B3-993C-C9FFFA987A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B42E68-9B01-44B3-993C-C9FFFA987A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680EF8E3-FE9D-4A7D-8A0F-6A85C66CAB2E}
+	EndGlobalSection
+EndGlobal

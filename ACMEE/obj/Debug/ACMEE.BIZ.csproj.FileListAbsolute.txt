@@ -1,0 +1,6 @@
+C:\Users\kusan\source\repos\ACMEE\bin\Debug\ACMEE.dll
+C:\Users\kusan\source\repos\ACMEE\bin\Debug\ACMEE.pdb
+C:\Users\kusan\source\repos\ACMEE\obj\Debug\ACMEE.BIZ.csproj.AssemblyReference.cache
+C:\Users\kusan\source\repos\ACMEE\obj\Debug\ACMEE.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\kusan\source\repos\ACMEE\obj\Debug\ACMEE.dll
+C:\Users\kusan\source\repos\ACMEE\obj\Debug\ACMEE.pdb

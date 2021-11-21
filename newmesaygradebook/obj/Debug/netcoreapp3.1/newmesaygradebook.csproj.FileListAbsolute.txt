@@ -1,0 +1,14 @@
+C:\Users\kusan\source\repos\newmesaygradebook\obj\Debug\netcoreapp3.1\newmesaygradebook.csproj.AssemblyReference.cache
+C:\Users\kusan\source\repos\newmesaygradebook\obj\Debug\netcoreapp3.1\newmesaygradebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusan\source\repos\newmesaygradebook\obj\Debug\netcoreapp3.1\newmesaygradebook.AssemblyInfoInputs.cache
+C:\Users\kusan\source\repos\newmesaygradebook\obj\Debug\netcoreapp3.1\newmesaygradebook.AssemblyInfo.cs
+C:\Users\kusan\source\repos\newmesaygradebook\obj\Debug\netcoreapp3.1\newmesaygradebook.csproj.CoreCompileInputs.cache
+C:\Users\kusan\source\repos\newmesaygradebook\bin\Debug\netcoreapp3.1\newmesaygradebook.exe
+C:\Users\kusan\source\repos\newmesaygradebook\bin\Debug\netcoreapp3.1\newmesaygradebook.deps.json
+C:\Users\kusan\source\repos\newmesaygradebook\bin\Debug\netcoreapp3.1\newmesaygradebook.runtimeconfig.json
+C:\Users\kusan\source\repos\newmesaygradebook\bin\Debug\netcoreapp3.1\newmesaygradebook.runtimeconfig.dev.json
+C:\Users\kusan\source\repos\newmesaygradebook\bin\Debug\netcoreapp3.1\newmesaygradebook.dll
+C:\Users\kusan\source\repos\newmesaygradebook\bin\Debug\netcoreapp3.1\newmesaygradebook.pdb
+C:\Users\kusan\source\repos\newmesaygradebook\obj\Debug\netcoreapp3.1\newmesaygradebook.dll
+C:\Users\kusan\source\repos\newmesaygradebook\obj\Debug\netcoreapp3.1\newmesaygradebook.pdb
+C:\Users\kusan\source\repos\newmesaygradebook\obj\Debug\netcoreapp3.1\newmesaygradebook.genruntimeconfig.cache

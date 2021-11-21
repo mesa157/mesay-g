@@ -1,0 +1,14 @@
+C:\Users\kusan\source\repos\Plural\bin\Debug\netcoreapp3.1\Plural.exe
+C:\Users\kusan\source\repos\Plural\bin\Debug\netcoreapp3.1\Plural.deps.json
+C:\Users\kusan\source\repos\Plural\bin\Debug\netcoreapp3.1\Plural.runtimeconfig.json
+C:\Users\kusan\source\repos\Plural\bin\Debug\netcoreapp3.1\Plural.runtimeconfig.dev.json
+C:\Users\kusan\source\repos\Plural\bin\Debug\netcoreapp3.1\Plural.dll
+C:\Users\kusan\source\repos\Plural\bin\Debug\netcoreapp3.1\Plural.pdb
+C:\Users\kusan\source\repos\Plural\obj\Debug\netcoreapp3.1\Plural.csproj.AssemblyReference.cache
+C:\Users\kusan\source\repos\Plural\obj\Debug\netcoreapp3.1\Plural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusan\source\repos\Plural\obj\Debug\netcoreapp3.1\Plural.AssemblyInfoInputs.cache
+C:\Users\kusan\source\repos\Plural\obj\Debug\netcoreapp3.1\Plural.AssemblyInfo.cs
+C:\Users\kusan\source\repos\Plural\obj\Debug\netcoreapp3.1\Plural.csproj.CoreCompileInputs.cache
+C:\Users\kusan\source\repos\Plural\obj\Debug\netcoreapp3.1\Plural.dll
+C:\Users\kusan\source\repos\Plural\obj\Debug\netcoreapp3.1\Plural.pdb
+C:\Users\kusan\source\repos\Plural\obj\Debug\netcoreapp3.1\Plural.genruntimeconfig.cache

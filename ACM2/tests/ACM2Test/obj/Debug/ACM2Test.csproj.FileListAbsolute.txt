@@ -1,0 +1,16 @@
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\ACM2Test.dll
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\ACM2Test.pdb
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\ACM2.dll
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\ACM2.pdb
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\obj\Debug\ACM2Test.csproj.AssemblyReference.cache
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\obj\Debug\ACM2Test.csproj.CoreCompileInputs.cache
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\obj\Debug\ACM2Test.csproj.CopyComplete
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\obj\Debug\ACM2Test.dll
+C:\Users\kusan\source\repos\ACM2\tests\ACM2Test\obj\Debug\ACM2Test.pdb
