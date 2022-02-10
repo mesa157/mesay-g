@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "edb34cd5-8f9a-4ffa-a6ff-924fbffdfa2a": {
+      "ProjectGuid": "edb34cd5-8f9a-4ffa-a6ff-924fbffdfa2a",
+      "DisplayName": "FriendOrganizer.Model",
+      "ColorIndex": 0
+    },
+    "f5bb66dd-5e3e-49d1-a6d4-866332a2f6cc": {
+      "ProjectGuid": "f5bb66dd-5e3e-49d1-a6d4-866332a2f6cc",
+      "DisplayName": "FirendOrganizer.UI",
+      "ColorIndex": 1
+    },
+    "17211cfd-4bea-4856-8633-044fd8184049": {
+      "ProjectGuid": "17211cfd-4bea-4856-8633-044fd8184049",
+      "DisplayName": "FriendOrganizer.DataAccess",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

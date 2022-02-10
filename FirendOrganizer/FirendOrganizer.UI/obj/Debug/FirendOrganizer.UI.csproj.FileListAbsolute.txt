@@ -1,0 +1,8 @@
+C:\Users\kusan\source\repos\FirendOrganizer\FirendOrganizer.UI\obj\Debug\FirendOrganizer.UI.csproj.AssemblyReference.cache
+C:\Users\kusan\source\repos\FirendOrganizer\FirendOrganizer.UI\obj\Debug\FirendOrganizer.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kusan\source\repos\FirendOrganizer\FirendOrganizer.UI\obj\Debug\MainWindow.g.cs
+C:\Users\kusan\source\repos\FirendOrganizer\FirendOrganizer.UI\obj\Debug\App.g.cs
+C:\Users\kusan\source\repos\FirendOrganizer\FirendOrganizer.UI\obj\Debug\FirendOrganizer.UI_MarkupCompile.cache
+C:\Users\kusan\source\repos\FirendOrganizer\FirendOrganizer.UI\obj\Debug\FirendOrganizer.UI_MarkupCompile.lref
+C:\Users\kusan\source\repos\FirendOrganizer\FirendOrganizer.UI\obj\Debug\FirendOrganizer.UI.exe
+C:\Users\kusan\source\repos\FirendOrganizer\FirendOrganizer.UI\obj\Debug\FirendOrganizer.UI.pdb
