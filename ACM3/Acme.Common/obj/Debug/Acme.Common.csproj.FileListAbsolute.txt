@@ -1,6 +1,0 @@
-C:\Users\kusan\source\repos\ACM3\Acme.Common\bin\Debug\Acme.Common.dll
-C:\Users\kusan\source\repos\ACM3\Acme.Common\bin\Debug\Acme.Common.pdb
-C:\Users\kusan\source\repos\ACM3\Acme.Common\obj\Debug\Acme.Common.csproj.AssemblyReference.cache
-C:\Users\kusan\source\repos\ACM3\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
-C:\Users\kusan\source\repos\ACM3\Acme.Common\obj\Debug\Acme.Common.dll
-C:\Users\kusan\source\repos\ACM3\Acme.Common\obj\Debug\Acme.Common.pdb

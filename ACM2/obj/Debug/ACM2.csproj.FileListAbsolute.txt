@@ -1,6 +1,0 @@
-C:\Users\kusan\source\repos\ACM2\bin\Debug\ACM2.dll
-C:\Users\kusan\source\repos\ACM2\bin\Debug\ACM2.pdb
-C:\Users\kusan\source\repos\ACM2\obj\Debug\ACM2.csproj.AssemblyReference.cache
-C:\Users\kusan\source\repos\ACM2\obj\Debug\ACM2.csproj.CoreCompileInputs.cache
-C:\Users\kusan\source\repos\ACM2\obj\Debug\ACM2.dll
-C:\Users\kusan\source\repos\ACM2\obj\Debug\ACM2.pdb

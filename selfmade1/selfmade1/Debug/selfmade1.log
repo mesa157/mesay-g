@@ -1,4 +1,0 @@
-﻿  selfmade1.cpp
-C:\Users\kusan\source\repos\selfmade1\selfmade1\selfmade1.cpp(14,7): error C2120: 'void' illegal with all types
-C:\Users\kusan\source\repos\selfmade1\selfmade1\selfmade1.cpp(17,10): error C2065: 'n': undeclared identifier
-C:\Users\kusan\source\repos\selfmade1\selfmade1\selfmade1.cpp(17,14): error C2065: 'd': undeclared identifier

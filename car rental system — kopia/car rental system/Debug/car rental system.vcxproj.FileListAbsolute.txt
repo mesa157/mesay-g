@@ -1,2 +1,0 @@
-C:\Users\kusan\source\repos\car rental system\Debug\car rental system.exe.lastcodeanalysissucceeded
-C:\Users\kusan\source\repos\car rental system\car rental system\Debug\NativeCodeAnalysis.read.1.tlog

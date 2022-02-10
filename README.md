@@ -1,2 +1,0 @@
-# mesay-g
-# mesay-g

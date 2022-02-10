@@ -1,6 +1,0 @@
-C:\Users\kusan\source\repos\ACMEE.COM\bin\Debug\ACMEE.COM.dll
-C:\Users\kusan\source\repos\ACMEE.COM\bin\Debug\ACMEE.COM.pdb
-C:\Users\kusan\source\repos\ACMEE.COM\obj\Debug\ACMEE.COM.csproj.AssemblyReference.cache
-C:\Users\kusan\source\repos\ACMEE.COM\obj\Debug\ACMEE.COM.csproj.CoreCompileInputs.cache
-C:\Users\kusan\source\repos\ACMEE.COM\obj\Debug\ACMEE.COM.dll
-C:\Users\kusan\source\repos\ACMEE.COM\obj\Debug\ACMEE.COM.pdb
